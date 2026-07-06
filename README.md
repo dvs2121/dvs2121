@@ -8,22 +8,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&width=650&lines=Initializing+Neural+Core...;AI+%2F+ML+Engineer+in+Training;Power+BI+%7C+Cloud+Computing;BTech+CSE+(AIML)+%40+SRMIT+Lucknow" alt="Typing SVG" />
 </a>
 
-<!-- Profile image placeholder -->
-<img src="https://via.placeholder.com/160x160/0f0c29/00fff7?text=DVS" width="160" height="160" style="border-radius:50%;border:2px solid #00fff7;" alt="profile-photo"/>
 
-<sub>⚠️ Placeholder avatar — swap this with your Instagram photo. Upload the image and I'll drop it straight in.</sub>
 
 </div>
 
 ---
 
-### 🛰️ `> whoami`
+### 🛰️ `> who am I `
 
 ```
-> NAME        : Devesh Prajapati
+> NAME        : DEVESH PRATAP
 > ROLE        : B.Tech CSE (AI/ML) Student, 2023–27
 > INSTITUTE   : SRMIT, Lucknow (Affiliated to Dr. A.P.J. Abdul Kalam Technical University - AKTU)
-> FOCUS       : Artificial Intelligence · Machine Learning · Cloud Computing
+> FOCUS       : Artificial Intelligence · Machine Learning · Cloud Computing· PowerBI
 > CERT        : Power BI (Completed)
 > STATUS      : Descending deeper into intelligent systems...
 ```
