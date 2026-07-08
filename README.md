@@ -101,21 +101,22 @@ Full project list with live descriptions, languages, and stars is on my [portfol
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:prd247757@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/dvs2121"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:prd247757@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/devesh-prajapati-8b906b25a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.instagram.com/devesh.prajapati_2128" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://github.com/dvs2121" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
-<a href="https://www.linkedin.com/in/devesh-prajapati-8b906b25a" target="_blank">LinkedIN
-
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-
-</a>
-
-<a href="https://www.instagram.com/devesh.prajapati_2128" target="_blank">Instagram
-
-  <img src="https://skillicons.dev/icons?i=instagram" width="50" />
-
-</a>
 
 <p align="center"><i>Lucknow, Uttar Pradesh, India</i></p>
 
