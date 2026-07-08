@@ -19,7 +19,6 @@
 
 - 🏫 B.Tech, Computer Science & Engineering — **Artificial Intelligence & Machine Learning**, SRIMT, Lucknow (AKTU) · 2023 – Present
 - 🔭 Currently building intelligent applications and BI solutions with **Python, Machine Learning, Power BI, SQL & Cloud platforms**
-- 🌱 Learning: Deep Learning, advanced Cloud Architecture, and CI/CD for ML pipelines
 - 💡 Interested in scalable AI-powered applications & business intelligence solutions
 - 📊 Ask me about: Power BI dashboards, ML models, Python data pipelines
 - ⚡ Fun fact: I enjoy turning messy spreadsheets into dashboards people actually want to look at
@@ -106,6 +105,17 @@ Full project list with live descriptions, languages, and stars is on my [portfol
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/dvs2121"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+<a href="https://www.linkedin.com/in/devesh-prajapati-8b906b25a" target="_blank">LinkedIN
+
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+
+</a>
+
+<a href="https://www.instagram.com/devesh.prajapati_2128" target="_blank">Instagram
+
+  <img src="https://skillicons.dev/icons?i=instagram" width="50" />
+
+</a>
 
 <p align="center"><i>Lucknow, Uttar Pradesh, India</i></p>
 
