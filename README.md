@@ -11,6 +11,9 @@
   <a href="mailto:prd247757@gmail.com"><img src="https://img.shields.io/badge/Email-prd247757%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="tel:7348247757"><img src="https://img.shields.io/badge/Phone-7348247757-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-4F7CFF?style=flat&logo=googlemaps&logoColor=white" />
+<a href="https://deveshpratap.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-DeveshPratap.vercel.app-000000?style=flat&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 ---
@@ -116,6 +119,9 @@ Full project list with live descriptions, languages, and stars is on my [portfol
   <a href="https://github.com/dvs2121" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+<a href="https://deveshpratap.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-DeveshPratap.vercel.app-000000?style=flat&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 <p align="center"><i>Lucknow, Uttar Pradesh, India</i></p>
