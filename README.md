@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:prd247757@gmail.com"><img src="https://img.shields.io/badge/Email-prd247757%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:deveshpratap7757@gmail.com"><img src="https://img.shields.io/badge/Email-deveshpratap7757%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="tel:7348247757"><img src="https://img.shields.io/badge/Phone-7348247757-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-4F7CFF?style=flat&logo=googlemaps&logoColor=white" />
 <a href="https://deveshpratap.vercel.app" target="_blank">
@@ -104,7 +104,7 @@ Full project list with live descriptions, languages, and stars is on my [portfol
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:prd247757@gmail.com">
+  <a href="mailto:deveshpratap7757@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
