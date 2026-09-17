@@ -1,131 +1,99 @@
-<h1 align="center">Hi 👋, I'm Devesh Pratap</h1>
-<h3 align="center">Machine Learning Engineer · Power BI Developer · Cloud Computing Engineer · Data Analyst · Python Developer</h3>
+<!-- Animated Header & Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Devesh+Pratap+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+Data+Analyst;Power+BI+Developer+%7C+Cloud+Enthusiast;Turning+raw+data+into+actionable+decisions." alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/dvs2121">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=4F7CFF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Building+intelligent+apps+with+Python+%26+ML;Turning+data+into+dashboards+with+Power+BI;Deploying+to+the+cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <a href="https://deveshpratap.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/devesh-prajapati-8b906b25a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" align="right" style="border-radius: 10px; margin-left: 20px;">
+</p>
+
+I’m a **Computer Science Engineering student** specializing in **Artificial Intelligence & Machine Learning** at **SRIMT, Lucknow** (affiliated with **AKTU**). I am passionate about the complete data lifecycle and building intelligent systems that solve real-world problems.
+
+> 💡 **My Data Workflow:**  
+> `Data Cleaning` → `Analysis` → `Machine Learning` → `Visualization` → `Deployment`
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,powerbi,sql,aws,git,github,vscode,linux&theme=dark" />
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:deveshpratap7757@gmail.com"><img src="https://img.shields.io/badge/Email-deveshpratap7757%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="tel:7348247757"><img src="https://img.shields.io/badge/Phone-7348247757-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-4F7CFF?style=flat&logo=googlemaps&logoColor=white" />
-<a href="https://deveshpratap.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-DeveshPratap.vercel.app-000000?style=flat&logo=vercel&logoColor=white" />
-</a>
-</p>
-
 ---
 
-### 🎓 About Me
+### 💼 Experience
 
-- 🏫 B.Tech, Computer Science & Engineering — **Artificial Intelligence & Machine Learning**, SRIMT, Lucknow (AKTU) · 2023 – Present
-- 🔭 Currently building intelligent applications and BI solutions with **Python, Machine Learning, Power BI, SQL & Cloud platforms**
-- 💡 Interested in scalable AI-powered applications & business intelligence solutions
-- 📊 Ask me about: Power BI dashboards, ML models, Python data pipelines
-- ⚡ Fun fact: I enjoy turning messy spreadsheets into dashboards people actually want to look at
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Programming**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Data & Business Intelligence**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-**Machine Learning**
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
-
-**Cloud & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dvs2121&show_icons=true&theme=transparent&hide_border=true&title_color=4f7cff&icon_color=22d3b0&text_color=8a94a6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvs2121&layout=compact&theme=transparent&hide_border=true&title_color=4f7cff&text_color=8a94a6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvs2121&theme=transparent&hide_border=true&ring=4f7cff&fire=22d3b0&currStreakLabel=4f7cff" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/4f7cff/dvs2121" alt="Devesh's GitHub contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dvs2121&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Data Analysis Intern</h3>
+      <p><strong>Saiket Systems</strong> | <em>Jul 2026 – Aug 2026</em></p>
+      <ul>
+        <li>Executed practical data-analysis assignments and real-world challenges.</li>
+        <li>Applied end-to-end data-cleaning and analytical workflows.</li>
+        <li>Strengthened analytical thinking, data storytelling, and attention to detail.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Machine Learning Intern</h3>
+      <p><strong>CodeAlpha</strong> | <em>Jun 2026 – Jul 2026</em></p>
+      <ul>
+        <li>Completed an intensive virtual Machine Learning internship program.</li>
+        <li>Gained hands-on exposure to ML algorithms and predictive modeling.</li>
+        <li>Focused on translating theoretical ML concepts into practical, deployable solutions.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🚀 Featured Projects
 
-> 📌 Pinned repositories show up automatically below once you pin them from your [profile page](https://github.com/dvs2121?tab=repositories) — click **Customize your pins**.
+#### 🔥 [HotFlamee](#) — Catering Services Web Platform
+*A comprehensive web platform designed to streamline catering service management, bookings, and operations.*
+- **Tech Stack:** [Add your tech here, e.g., React, Node.js, MongoDB]
+- **Highlights:** [Add 1-2 key features, e.g., Real-time booking system, Admin dashboard]
+- <a href="#"><img src="https://img.shields.io/badge/View%20Project-238636?style=flat-square&logo=github&logoColor=white" alt="View Project"/></a>
 
-<p align="center">
-  <a href="https://github.com/dvs2121?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dvs2121&repo=REPLACE_WITH_REPO_NAME&theme=transparent&hide_border=true&title_color=4f7cff&text_color=8a94a6" />
-  </a>
-</p>
-
-Full project list with live descriptions, languages, and stars is on my [portfolio site](#) — swap in your deployed link.
+*(💡 Tip: Add more projects using this same clean card-like structure!)*
 
 ---
 
-### 📫 Connect with Me
+### 📈 GitHub Analytics
 
 <p align="center">
-  <a href="mailto:deveshpratap7757@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/devesh-prajapati-8b906b25a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://www.instagram.com/devesh.prajapati_2128" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-
-  <a href="https://github.com/dvs2121" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-<a href="https://deveshpratap.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-DeveshPratap.vercel.app-000000?style=flat&logo=vercel&logoColor=white" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dvs2121&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvs2121&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Streak" width="49%" />
 </p>
 
-<p align="center"><i>Lucknow, Uttar Pradesh, India</i></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvs2121&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" width="80%" />
+</p>
+
+---
+
+### 🏆 Certifications & Learning
+📜 My certificates and continuous learning journey are documented in my [Google Drive Certificate Collection]
+https://drive.google.com/drive/folders/162flDRNx4uubC853h2FjRnv_NVHpYInu?usp=drive_link
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dvs2121&label=Profile+Views&color=4f7cff&style=flat" />
+  <img src="https://profile-counter.glitch.me/dvs2121/count.svg" alt="Visitor Count" />
+  <br/>
+  <sub>Thank you for visiting my profile! 🚀</sub>
 </p>
