@@ -69,7 +69,7 @@ I’m a **Computer Science Engineering student** specializing in **Artificial In
 - **Highlights:** [Add 1-2 key features, e.g., Real-time booking system, Admin dashboard]
 - <a href="#"><img src="https://img.shields.io/badge/View%20Project-238636?style=flat-square&logo=github&logoColor=white" alt="View Project"/></a>
 
-*(💡 Tip: Add more projects using this same clean card-like structure!)*
+
 
 ---
 
@@ -93,7 +93,5 @@ https://drive.google.com/drive/folders/162flDRNx4uubC853h2FjRnv_NVHpYInu?usp=dri
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/dvs2121/count.svg" alt="Visitor Count" />
-  <br/>
   <sub>Thank you for visiting my profile! 🚀</sub>
 </p>
